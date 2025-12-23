@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyTorch
+*.pth
+*.pt
+
+# MNIST data
+lenet5/data/
+
+# Virtual environment
+venv/
+env/
+ENV/
